@@ -1,48 +1,43 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include the design, implementation, monitoring and evaluation of public and private sector mobilization initiatives.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Com(ag) (Distinction)
+    institution: Canterbury University
+    year: 1988
+  - course: B.Com (First Class Honours)
+    institution: Canterbury University
+    year: 1987
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Corporatisation
+- Privatisation
+- Public Private Partnerships
+- Evaluation
+name: Bob Finlayson
 organizations:
-- name: Stanford University
+- name: European Bank for Reconstruction and Development
   url: ""
-role: Professor of Artificial Intelligence
-social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/nelsonbighetti/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+role: Associate Director and Senior Manager, Independent Evaluation Department
+#social:
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/nelsonbighetti/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 superuser: true
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Bob Finlayson is an Associate Director and Senior Manager, Independent Evaluation Department at European Bank for Reconstruction and Development (EBRD) based in London. His work has focussed on issues related to mobilizing private finance to support the achievement of sustainable development goals of transitioning economies. 

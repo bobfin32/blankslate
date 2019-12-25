@@ -20,7 +20,7 @@ name: Bob Finlayson
 organizations:
 - name: European Bank for Reconstruction and Development
   url: ""
-role: Associate Director and Senior Manager, Independent Evaluation Department
+role: Associate Director and Senior Manager, Evaluation Department
 #social:
 #- icon: twitter
 #  icon_pack: fab
@@ -40,4 +40,4 @@ superuser: true
 #- Visitors
 ---
 
-Bob Finlayson is an Associate Director and Senior Manager, Independent Evaluation Department at European Bank for Reconstruction and Development (EBRD) based in London. His work has focussed on issues related to mobilizing private finance to support the achievement of sustainable development goals of transitioning economies. 
+Bob Finlayson is an Associate Director and Senior Manager, Evaluation Department at European Bank for Reconstruction and Development (EBRD) based in London. His work has focussed on issues related to mobilizing private finance to support the achievement of sustainable development goals of transitioning economies. 

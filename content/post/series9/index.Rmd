@@ -1,0 +1,41 @@
+---
+authors:
+- admin
+categories:
+- Demo
+date: "2019-12-28T00:00:00Z"
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  placement: 1
+  preview_only: false
+lastmod: "2019-12-28T00:00:00Z"
+projects: []
+subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+summary: Create a beautifully simple website in under 10 minutes.
+tags:
+- Academic
+title: 'All about series 9 here!'
+params:
+  series: 9
+  palette: "Darjeeling1"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      warning = FALSE,
+                      message = FALSE)
+```
+
+How to properly embed a leaflet widget inside a blog post using the widgetframe package
+
+```{r}
+library(leaflet)
+library(widgetframe)
+## Loading required package: htmlwidgets
+l <- leaflet() %>% addTiles() %>% setView(0,0,2)
+frameWidget(l, height = '400')
+```
+

@@ -20,7 +20,7 @@ slides: example
 summary: Special Evaluation Study on EBRD's Equity Operations.
 tags:
 title: Special Evaluation Study on EBRD's Equity Operations
-url_pdf: https://drive.google.com/file/d/1IbMJNudOM1hb6ShFwRUhYbtLRj1u3xNm
+url_pdf: https://www.dropbox.com/s/gipvskxggsjvv6g/EBRD_Equity_2017.pdf?dl=0
 ---
 
 

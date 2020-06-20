@@ -24,7 +24,7 @@ slides: example
 summary: An analysis of alternative institutional arrangements for producer boards in New Zealand
 tags:
 title: An Evaluation of Alternative Institutional Structures that could be Utilised in the New Zealand Agricultural Industry
-url_pdf: https://drive.google.com/file/d/1L47ZTU_Px6jHJTbs0_lOibh43b5n82-N
+url_pdf: https://www.dropbox.com/s/7fd981daioqx830/AgEcon_1993.pdf?dl=0
 ---
 
 

@@ -23,7 +23,7 @@ slides: example
 summary: An Evaluation of ADB's Private Equity Operation.
 tags:
 title: An Evaluation of ADB's Private Equity Funds
-url_pdf: https://drive.google.com/file/d/1IbMJNudOM1hb6ShFwRUhYbtLRj1u3xNm
+url_pdf: https://www.dropbox.com/s/8vcwkpm7s594cc1/ADB_PE_Eval-2008.pdf?dl=0
 ---
 
 

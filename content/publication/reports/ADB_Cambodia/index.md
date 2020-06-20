@@ -25,7 +25,7 @@ slides: example
 summary: Assessment of Public Private Partnerships in Cambodia.
 tags:
 title: Assessment of Public Private Partnerships in Cambodia
-url_pdf: https://drive.google.com/file/d/1Z4j3ncOKfiW7_Ag3N9fd82di9zw9x0Ty
+url_pdf: https://www.dropbox.com/s/1blojsxlhcann2o/ADB_Camb_PPP_2012.pdf?dl=0
 ---
 
 

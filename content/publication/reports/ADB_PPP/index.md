@@ -25,7 +25,7 @@ slides: example
 summary: Special Evaluation Study on Public Private Partnerships.
 tags:
 title: Special Evaluation Study on ADB Assistance for Public Private Partnerships in Infrastructure Development - Potential for More Success
-url_pdf: https://drive.google.com/file/d/1BQ1gUupxDd1697giKeFLpd_RzmhTpfbI
+url_pdf: https://www.dropbox.com/s/jbq1i06hpluc7lf/ADB_PPP_Eval_2009.pdf?dl=0
 ---
 
 

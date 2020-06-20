@@ -27,7 +27,7 @@ slides: example
 summary: Special Evaluation Study on EBRD's PPP Operations.
 tags:
 title: Infrastructure Project Preparation Facility
-url_pdf: https://drive.google.com/file/d/13HTIAYHiS59_dKvpt1cOIO8WSTVH0hHk
+url_pdf: https://www.dropbox.com/s/ken0w4ksps4q87f/EBRD_IPPF_2018.pdf?dl=0
 ---
 
 

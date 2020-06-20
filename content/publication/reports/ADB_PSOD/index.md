@@ -20,7 +20,7 @@ slides: example
 summary: Review of ADB's private sector operations.
 tags:
 title: Private Sector Development and Operations - Harnessing Synergies with the Public Sector
-url_pdf: https://drive.google.com/file/d/1-K3AAi6eMMWqULcdfdtUFAC6EifZbweQ
+url_pdf: https://www.dropbox.com/s/mzii7uovhqeo7of/ADB_PSOD_Eval_2007.pdf?dl=0
 ---
 
 

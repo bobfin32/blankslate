@@ -23,7 +23,7 @@ slides: example
 summary: Special Evaluation Study on EBRD Mobilisation of Private Finance.
 tags:
 title: Special Evaluation Study on EBRD Mobilisation of Private Finance
-url_pdf: https://drive.google.com/file/d/1QlwtW75a1_QaIGzFEXbbOJ6amE5jm0zi
+url_pdf: https://www.dropbox.com/s/lgxsztnehqe8kka/EBRD_Mob_2020.pdf?dl=0
 ---
 
 

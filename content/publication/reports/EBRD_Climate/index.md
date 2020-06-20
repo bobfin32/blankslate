@@ -27,7 +27,7 @@ slides: example
 summary: Special Evaluation Study on EBRD's Climate Change Initiatives.
 tags:
 title: Climate Initiatives
-url_pdf: https://drive.google.com/file/d/1cn_78zKC4Bf7x9Pxz2U9xB0MyQfEYWbO
+url_pdf: https://www.dropbox.com/s/b91kmyv1qldplae/EBRD_CI_2019.pdf?dl=0
 ---
 
 

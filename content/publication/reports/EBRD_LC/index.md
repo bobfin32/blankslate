@@ -26,7 +26,7 @@ slides: example
 summary: Bank Support for Local Capital Markets Development
 tags:
 title: Bank Support for Local Capital Markets Development
-url_pdf: https://drive.google.com/file/d/1b90q_eU8IXFAQSNDC3GIqhqOs1gTqpB6
+url_pdf: https://www.dropbox.com/s/ephcrhyn1kaj58h/EBRD_LC2_2017.pdf?dl=0
 ---
 
 

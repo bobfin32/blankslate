@@ -10,7 +10,7 @@ education:
   - course: B.Com (First Class Honours)
     institution: Canterbury University
     year: 1987
-email: ""
+email: "finlaysb@ebrd.com"
 interests:
 - Corporatisation
 - Privatisation
@@ -34,7 +34,7 @@ role: Associate Director and Senior Manager, Evaluation Department
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-superuser: true
+#superuser: true
 #user_groups:
 #- Researchers
 #- Visitors

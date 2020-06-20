@@ -20,7 +20,3 @@ title: Presentation on Fiscal Risk Management for Public Private Partnerships in
 url_pdf: https://drive.google.com/file/d/1VePMPXvOlGkVvnVOEtLpe4WgEMbsr0kf
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-

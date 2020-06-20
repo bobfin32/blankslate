@@ -29,7 +29,5 @@ title: Bank Support for Local Capital Markets Development
 url_pdf: https://drive.google.com/file/d/1b90q_eU8IXFAQSNDC3GIqhqOs1gTqpB6
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+
 

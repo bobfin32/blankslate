@@ -23,7 +23,4 @@ title: Special Evaluation Study on EBRD's Equity Operations
 url_pdf: https://drive.google.com/file/d/1IbMJNudOM1hb6ShFwRUhYbtLRj1u3xNm
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 

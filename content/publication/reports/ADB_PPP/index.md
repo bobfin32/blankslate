@@ -28,7 +28,5 @@ title: Special Evaluation Study on ADB Assistance for Public Private Partnership
 url_pdf: https://drive.google.com/file/d/1BQ1gUupxDd1697giKeFLpd_RzmhTpfbI
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+
 

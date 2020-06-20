@@ -26,7 +26,4 @@ title: An Evaluation of ADB's Private Equity Funds
 url_pdf: https://drive.google.com/file/d/1IbMJNudOM1hb6ShFwRUhYbtLRj1u3xNm
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 

@@ -27,7 +27,4 @@ title: An Evaluation of Alternative Institutional Structures that could be Utili
 url_pdf: https://drive.google.com/file/d/1L47ZTU_Px6jHJTbs0_lOibh43b5n82-N
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 

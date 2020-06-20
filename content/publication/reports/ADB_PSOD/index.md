@@ -23,7 +23,5 @@ title: Private Sector Development and Operations - Harnessing Synergies with the
 url_pdf: https://drive.google.com/file/d/1-K3AAi6eMMWqULcdfdtUFAC6EifZbweQ
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+
 

@@ -30,7 +30,5 @@ title: Infrastructure Project Preparation Facility
 url_pdf: https://drive.google.com/file/d/13HTIAYHiS59_dKvpt1cOIO8WSTVH0hHk
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+
 

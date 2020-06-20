@@ -30,7 +30,5 @@ title: Climate Initiatives
 url_pdf: https://drive.google.com/file/d/1cn_78zKC4Bf7x9Pxz2U9xB0MyQfEYWbO
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+
 

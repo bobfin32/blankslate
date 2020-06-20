@@ -26,7 +26,5 @@ title: Special Evaluation Study on EBRD Mobilisation of Private Finance
 url_pdf: https://drive.google.com/file/d/1QlwtW75a1_QaIGzFEXbbOJ6amE5jm0zi
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+
 

@@ -28,7 +28,5 @@ title: Assessment of Public Private Partnerships in Cambodia
 url_pdf: https://drive.google.com/file/d/1Z4j3ncOKfiW7_Ag3N9fd82di9zw9x0Ty
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+
 

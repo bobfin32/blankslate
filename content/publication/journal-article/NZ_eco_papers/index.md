@@ -28,10 +28,4 @@ title: New Zealand’s Export Demand Elasticity, Revisited
 url_pdf: https://www.tandfonline.com/doi/abs/10.1080/00779958809544136
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}

@@ -1,6 +1,7 @@
 ---
-abstract: A presentation on institutional arrangements for Public Private Partnerships to enhance 
-  financial sustainability of projects and manage associated fiscal risks.
+abstract: A presentation at the PPP Days event organised by the World Bank in 2008 on potential institutional 
+  arrangements for Public Private Partnerships to enhance financial sustainability of projects and manage 
+  associated fiscal risks.
 authors:
 - admin
 date: "2008-07-01T00:00:00Z"

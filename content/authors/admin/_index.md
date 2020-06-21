@@ -15,6 +15,8 @@ interests:
 - Corporatisation
 - Privatisation
 - Public Private Partnerships
+- Strategy
+- Project Monitoring
 - Evaluation
 name: Bob Finlayson
 organizations:
